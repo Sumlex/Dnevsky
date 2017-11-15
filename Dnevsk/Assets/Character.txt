@@ -1,0 +1,1 @@
+{"Vspishka":{"instanceID":0},"Activator":{"instanceID":0},"Restart":{"instanceID":0},"CheckPoint":{"instanceID":318376},"CheckPoint1":{"instanceID":326754},"lives":4,"Hearts":2,"score":0,"Level":1,"speed":5.0,"JumpForce":13.0}

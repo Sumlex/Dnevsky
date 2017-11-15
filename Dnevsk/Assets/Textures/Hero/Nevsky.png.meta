@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 308388c1667603144a798dc8b6e61ad0
+timeCreated: 1492352810
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nevsky_0
+    21300002: Nevsky_1
+    21300004: Nevsky_2
+    21300006: Nevsky_3
+    21300008: Nevsky_4
+    21300010: Nevsky_5
+    21300012: Nevsky_6
+    21300014: Nevsky_7
+    21300016: Nevsky_8
+    21300018: Nevsky_9
+    21300020: Nevsky_10
+    21300022: Nevsky_11
+    21300024: Nevsky_12
+    21300026: Nevsky_13
+    21300028: Nevsky_14
+    21300030: Nevsky_15
+    21300032: Nevsky_16
+    21300034: Nevsky_17
+    21300036: Nevsky_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 2048
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nevsky_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1764
+        width: 442
+        height: 1012
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_1
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1768
+        width: 453
+        height: 1008
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_2
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1775
+        width: 464
+        height: 1008
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_3
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1757
+        width: 471
+        height: 1022
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_4
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1754
+        width: 465
+        height: 1021
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_5
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1752
+        width: 477
+        height: 1009
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_6
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1754
+        width: 465
+        height: 1009
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_7
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 1742
+        width: 438
+        height: 1024
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_8
+      rect:
+        serializedVersion: 2
+        x: 5855
+        y: 1725
+        width: 446
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_9
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 1688
+        width: 404
+        height: 1076
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 442
+        height: 1071
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 237
+        width: 399
+        height: 1090
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_12
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 251
+        width: 408
+        height: 1081
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_13
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 259
+        width: 546
+        height: 1084
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_14
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 264
+        width: 501
+        height: 1081
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_15
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 256
+        width: 474
+        height: 1097
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_16
+      rect:
+        serializedVersion: 2
+        x: 4617
+        y: 267
+        width: 435
+        height: 1095
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_17
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 253
+        width: 453
+        height: 1115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nevsky_18
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 294
+        width: 452
+        height: 1034
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
