@@ -1,0 +1,1 @@
+{"Vspishka":{"m_FileID":0,"m_PathID":0},"Activator":{"m_FileID":0,"m_PathID":0},"Restart":{"m_FileID":0,"m_PathID":0},"CheckPoint":{"m_FileID":17926,"m_PathID":0},"CheckPoint1":{"m_FileID":18018,"m_PathID":0},"lives":4,"Hearts":2,"score":0,"Level":1,"speed":5.0,"JumpForce":13.0}
